@@ -13,6 +13,7 @@ I like building systems that actually run end to end — LLM/RAG applications, e
 | **[JavaDocRAG](https://github.com/sririthishpalani-max/JavaDocRAG)** | Retrieval-augmented Q&A over the JDK 25 API docs — hybrid BM25 + dense retrieval, cross-encoder reranking, cited answers | Python · FastAPI · FAISS · Claude |
 | **[kalshi-latency-arb](https://github.com/sririthishpalani-max/kalshi-latency-arb)** | Async latency-arbitrage system for the CFTC-regulated Kalshi event-contract exchange — quarter-Kelly sizing, risk controls, backtester | Python · asyncio · WebSocket |
 | **[ibkr-dual-ema-trading](https://github.com/sririthishpalani-max/ibkr-dual-ema-trading)** | Session-aware Dual-EMA crossover trading system for Interactive Brokers — real-time bars, order-lifecycle management, risk controls, Telegram control, backtester | Python · ib-insync · asyncio |
+| **[llm-guided-evolution](https://github.com/sririthishpalani-max/llm-guided-evolution)** | Research (GT VIP lab) — LLM inference optimization within the Guided Evolution LLM + genetic-algorithm NAS framework; quantization, RAG, distributed runs on PACE/SLURM | Python · PyTorch · SLURM/HPC |
 
 ---
 
