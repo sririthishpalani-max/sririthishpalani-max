@@ -11,7 +11,8 @@ I like building systems that actually run end to end — LLM/RAG applications, e
 | Project | What it is | Stack |
 |---|---|---|
 | **[JavaDocRAG](https://github.com/sririthishpalani-max/JavaDocRAG)** | Retrieval-augmented Q&A over the JDK 25 API docs — hybrid BM25 + dense retrieval, cross-encoder reranking, cited answers | Python · FastAPI · FAISS · Claude |
-| **[kalshi-crypto-latency-arb](https://github.com/sririthishpalani-max/kalshi-crypto-latency-arb)** | Async latency-arbitrage bot for regulated prediction markets — quarter-Kelly sizing, risk controls, backtester | Python · asyncio · WebSocket |
+| **[kalshi-latency-arb](https://github.com/sririthishpalani-max/kalshi-latency-arb)** | Async latency-arbitrage system for the CFTC-regulated Kalshi event-contract exchange — quarter-Kelly sizing, risk controls, backtester | Python · asyncio · WebSocket |
+| **[ibkr-dual-ema-trading](https://github.com/sririthishpalani-max/ibkr-dual-ema-trading)** | Session-aware Dual-EMA crossover trading system for Interactive Brokers — real-time bars, order-lifecycle management, risk controls, Telegram control, backtester | Python · ib-insync · asyncio |
 
 ---
 
